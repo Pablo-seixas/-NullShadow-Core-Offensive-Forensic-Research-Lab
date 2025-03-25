@@ -1,1 +1,1 @@
-# -NullShadow-Core-Offensive-Forensic-Research-Lab
+NullShadow-Core-Offensive-Forensic-Research-Lab
